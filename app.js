@@ -259,8 +259,8 @@ spinButton.addEventListener('click', () => {
 
 drawWheel();
 
-const validUsername = 'khizar';
-const validPassword = '123';
+const validUsername = 'ukv';
+const validPassword = '12335';
 
 loginButton.addEventListener('click', () => {
     const username = document.getElementById('username').value;
